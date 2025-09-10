@@ -21,10 +21,9 @@ ul li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14 16;
   text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: #909090;
+  background-color: #888888;
 }
