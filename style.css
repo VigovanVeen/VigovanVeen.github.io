@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(215, 215, 215);
-}
+    background-color: rgb(215, 215, 215); /*kleur voor de achtergrond*/
+} 
 body {
     color: rgb(0, 0, 0);
 }
@@ -13,7 +13,7 @@ body {
 h2, p {
   margin: 10px;
 }
-
+ /*code om het menu te laten werken*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -36,4 +36,4 @@ ul li a {
 
 ul li a:hover {
   background-color: #111111;
-}
+} 
